@@ -21,7 +21,8 @@ Urban city types have the largest number of rides at 1,625 with 2,405 drivers; b
 ### Charting the Data
 ![PyBer Summary Chart](https://github.com/summerstime/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_Chart.png)
 
-The line chart shows the comparison of the three types of cities and their weekly fare totals. Once question that comes to mind is, what is happening during the latter part of February? All three city types rose in the total fare dollars. The data shown here utilized pivot.loc['1/1/2019':'5/2/2019']. More explained in the Analysis Details below.
+The line chart shows the comparison of the three types of cities and their weekly fare totals. One question that comes to mind is, what is happening during the latter part of February? All three city types rose in the total fare dollars. 
+The data shown here utilized pivot.loc['1/1/2019':'5/2/2019']. More explained in the Analysis Details below.
 
 
 ## Summary
